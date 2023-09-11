@@ -1,0 +1,14 @@
+{
+  "packageUrl": "https://update.g8ntex.one/",
+  "remoteManifestUrl": "https://update.g8ntex.one/project.manifest",
+  "remoteVersionUrl": "https://update.g8ntex.one/version.manifest",
+  "version": "0.0.2",
+  "assets": {
+    "remote2.zip": {
+      "size": 478870,
+      "md5": "13de6bbb46d9fdad46dda9629c5132b7",
+      "compressed": true
+    }
+  },
+  "searchPaths": []
+}
