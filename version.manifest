@@ -1,0 +1,6 @@
+{
+  "packageUrl": "https://update.g8ntex.one/",
+  "remoteManifestUrl": "https://update.g8ntex.one/project.manifest",
+  "remoteVersionUrl": "https://update.g8ntex.one/version.manifest",
+  "version": "0.0.2"
+}
